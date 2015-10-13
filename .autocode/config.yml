@@ -1,4 +1,6 @@
-name: crystalcodegen-test/asdfoasidf
+name: asdfoasidf
+description: test
+url: 'http://example.org'
 author:
   name: Chris Tate
   email: test@crystal.sh
